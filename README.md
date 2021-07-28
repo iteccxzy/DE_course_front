@@ -1,4 +1,11 @@
-# cursos-vue
+# DE_course_front: frontend application courses
+
+- *Search courses*
+- *Add edit and delete courses from admin*
+
+💻 *NodeJS, VueJS and template bootstrap*
+
+---
 
 ## Project setup
 ```
